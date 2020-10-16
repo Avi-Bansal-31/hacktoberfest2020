@@ -40,3 +40,4 @@
 | Ankit Sharma      | [@ANKITSHARMA98](https://github.com/ANKITSHARMA98)            |
 | Nikhil Sachan     | [@nikhil254](https://github.com/nikhil254)                    |
 | Ritik Bagora      | [@ritik1999](https://github.com/ritik1999)                    |
+| Avi Bansal        | [@avi-bansal-31](https://github.com/Avi-Bansal-31)            |
